@@ -6,6 +6,7 @@ void setup() {
 
   // Your high-level code goes here
   Turtle t = new Turtle(this);
+  t.forward(100);
 
   // End your high-level code here
 
